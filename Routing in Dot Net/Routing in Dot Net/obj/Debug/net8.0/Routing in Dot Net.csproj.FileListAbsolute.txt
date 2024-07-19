@@ -1,0 +1,27 @@
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\appsettings.Development.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\appsettings.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\Routing in Dot Net.exe
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\Routing in Dot Net.deps.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\Routing in Dot Net.runtimeconfig.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\Routing in Dot Net.dll
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\bin\Debug\net8.0\Routing in Dot Net.pdb
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.AssemblyInfoInputs.cache
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.AssemblyInfo.cs
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.csproj.CoreCompileInputs.cache
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.MvcApplicationPartsAssemblyInfo.cache
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.RazorAssemblyInfo.cache
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.RazorAssemblyInfo.cs
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets.build.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets.development.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets\msbuild.Routing in Dot Net.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets\msbuild.build.Routing in Dot Net.props
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Routing in Dot Net.props
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Routing in Dot Net.props
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\staticwebassets.pack.json
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\scopedcss\bundle\Routing in Dot Net.styles.css
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.dll
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\refint\Routing in Dot Net.dll
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.pdb
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\Routing in Dot Net.genruntimeconfig.cache
+G:\ASP.NET CORE\Routing in Dot Net\Routing in Dot Net\obj\Debug\net8.0\ref\Routing in Dot Net.dll
